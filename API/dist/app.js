@@ -12,11 +12,11 @@ var _bodyParser = require('body-parser');
 
 var _bodyParser2 = _interopRequireDefault(_bodyParser);
 
-var _orders = require('./api/routes/orders');
+var _orders = require('./controller/routes/orders');
 
 var _orders2 = _interopRequireDefault(_orders);
 
-var _products = require('./api/routes/products');
+var _products = require('./controller/routes/products');
 
 var _products2 = _interopRequireDefault(_products);
 
