@@ -1,0 +1,34 @@
+{
+  "name": "fastapp",
+  "version": "1.0.0",
+  "description": "simple fast food shop",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "test": "mocha",
+    "build": "rimraf dist/ && babel ./ --out-dir dist/ --ignore ./node_modules,./.babelrc,./package.json,./npm-debug.log --copy-files",
+    "start": "npm run build && nodemon dist/server.js"
+  },
+  "author": "Fibi Dalyop",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "node-array": "0.0.7",
+    "uniqid": "^5.0.3",
+    "istanbul": "~0.2.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "coveralls": "^2.13.3",
+    "eslint": "^5.5.0",
+    "mocha": "^5.2.0",
+    "mocha-lcov-reporter": "^1.3.0",
+    "nodemon": "^1.18.4",
+    "nyc": "^13.0.1",
+    "rimraf": "^2.6.2"
+  }
+}
