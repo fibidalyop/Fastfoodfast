@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"I",
+				"italic"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"fi",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"textarea	Tag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"col",
+				"outline-color"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"Is",
+				"isomorphic"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"d",
+				"doTsen"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"o",
+				"onclick	Attr"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ref",
+				"refNo"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"t",
+				"thead	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"more",
+				"moreinput"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"nu",
+				"num_Arrays"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/decline.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/decline.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/complete.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/complete.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/admin.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/admin.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/index.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/pending.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/pending.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/orders.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/orders.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/login.html",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/login.css",
+		"/C/Users/plateau/Desktop/Fastfoodfast/css/index.css",
+		"/C/Users/plateau/Downloads/source/example181/css/style.css",
+		"/C/Users/plateau/Downloads/source/example181/index.html",
+		"/C/Users/plateau/Desktop/orders.css",
+		"/C/Users/plateau/Desktop/orders.html",
+		"/C/Users/plateau/Desktop/login.css",
+		"/C/Users/plateau/Desktop/pending.css",
+		"/C/Users/plateau/Desktop/complete.css",
+		"/C/Users/plateau/Desktop/complete.html",
+		"/C/Users/plateau/Desktop/admin.html",
+		"/C/Users/plateau/Desktop/decline.html",
+		"/C/Users/plateau/Desktop/decline.css",
+		"/C/Users/plateau/Desktop/login.html",
+		"/C/Users/plateau/Desktop/shop.css",
+		"/C/Users/plateau/Desktop/shop.html",
+		"/C/Users/plateau/Desktop/admin.css",
+		"/C/Users/plateau/Desktop/pending.html",
+		"/C/Users/plateau/Desktop/shopslider.css",
+		"/C/old/FIBI/setup/clipone/themeforest-5881143-clipone-bootstrap-3-responsive-admin-template/clipone_v1.3/admin/clip-one/index.html",
+		"/C/Users/plateau/Downloads/source/example181/css/nivo-slider.css",
+		"/C/Users/plateau/Downloads/source/example181/css/reset.css",
+		"/C/old/FIBI/setup/clipone/themeforest-5881143-clipone-bootstrap-3-responsive-admin-template/clipone_v1.3/admin/clip-one/assets/css/main.css",
+		"/C/old/FIBI/setup/clipone/themeforest-5881143-clipone-bootstrap-3-responsive-admin-template/clipone_v1.3/admin/clip-one/login_example1.html",
+		"/C/Users/plateau/Desktop/login.js",
+		"/C/old/FIBI/setup/clipone/themeforest-5881143-clipone-bootstrap-3-responsive-admin-template/clipone_v1.3/admin/clip-one/assets/js/login.js",
+		"/C/Users/plateau/Desktop/armstron.html",
+		"/C/Users/plateau/Desktop/2isormorphic.html",
+		"/C/Users/plateau/Desktop/isormorphic.html",
+		"/C/Users/plateau/Desktop/andelapractice.html",
+		"/C/Users/plateau/Desktop/login/login.html",
+		"/C/Users/plateau/Documents/slide/slide.html",
+		"/C/xampp/htdocs/plateaustate.gov.ng/assets/index.html",
+		"/C/Users/plateau/Desktop/andelapractice",
+		"/C/Users/plateau/Desktop/kids.html",
+		"/Y/videos/big bang 09/page.php",
+		"/C/xampp/htdocs/plateaustate.gov.ng/themes/plsg/index.html",
+		"/C/Users/plateau/Desktop/slide/slide.js",
+		"/C/Users/plateau/Desktop/slide/slide.css",
+		"/C/Users/plateau/Desktop/slide/slide.html",
+		"/C/xampp/htdocs/plateaustate.gov.ng/themes/plsg/assets/style/responsive.css",
+		"/C/Users/plateau/Desktop/indexbackup.html",
+		"/C/xampp/htdocs/plateaustate.gov.ng/themes/plsg/header.html",
+		"/C/xampp/htdocs/plateaustate.gov.ng/themes/plsg/assets/style/unleash.css",
+		"/C/Users/plateau/Desktop/index2backup.html",
+		"/C/Users/plateau/Desktop/plateaustate_site/gallery_with_sidebar.html",
+		"/C/xampp/htdocs/plateaustate.gov.ng/themes/plsg/assets/style/style.css",
+		"/C/Users/plateau/Desktop/lag.html",
+		"/C/Users/plateau/Desktop/plateaustate/public/router.php",
+		"/C/Users/plateau/Desktop/plateaustate/config/db.json",
+		"/C/xampp/htdocs/plateaustate.gov.ng/router.php",
+		"/C/Users/plateau/Desktop/plateaustate/initializer.php",
+		"/C/xampp/htdocs/plateaustate/router.php",
+		"/C/Users/plateau/Desktop/plateaustate_site/style/bootstrap.css",
+		"/C/Users/plateau/Desktop/pictda_webservice_back/initializer.php",
+		"/C/Users/plateau/Desktop/tuts/try.html",
+		"/C/Users/plateau/Desktop/pictda_webservice_back/anchor.php",
+		"/C/Users/plateau/Desktop/pictda_webservice_back/config/db.json",
+		"/C/Users/plateau/Desktop/pictda_webservice_back/config/config.json",
+		"/C/xampp/htdocs/pictdaservices.ng/router.php",
+		"/C/Users/plateau/Desktop/tuts/javascript.html",
+		"/C/Users/plateau/Desktop/about/about.html",
+		"/C/xampp/htdocs/liverpool/database.php",
+		"/C/xampp/htdocs/liverpool/script.php",
+		"/C/Users/plateau/Desktop/add/database.html",
+		"/C/Users/plateau/Desktop/about/about_style.css",
+		"/C/Users/plateau/Desktop/about/about.js",
+		"/C/Users/plateau/Desktop/edd/form.css",
+		"/C/Users/plateau/Desktop/test/test.html",
+		"/C/Users/plateau/Desktop/about/jscript.html",
+		"/C/Users/plateau/Desktop/vols/vols/vowels/vowels.js",
+		"/C/Users/plateau/Desktop/add/addone.html",
+		"/C/Users/plateau/Desktop/vols/vowels.js",
+		"/C/Users/plateau/Desktop/vowels/vowels.js",
+		"/C/Users/plateau/Desktop/test/test.js",
+		"/C/Users/plateau/Desktop/vols/vols/vowels/vowels.html",
+		"/C/Users/plateau/Desktop/vols/vowels.html",
+		"/C/Users/plateau/Desktop/jscript/interactive.html",
+		"/C/Users/plateau/Desktop/vowels/vowels.html",
+		"/C/Users/plateau/Desktop/group/Group3Project/public_html/index.html",
+		"/C/Users/plateau/Desktop/group/Group3Project/public_html/About.html",
+		"/C/Users/plateau/Desktop/edd/form.html",
+		"/C/Users/plateau/Desktop/group/Group3Project/public_html/css/styles.css",
+		"/C/Users/plateau/Desktop/jscript/interactive.js",
+		"/C/Users/plateau/Desktop/jscript/interactive.css",
+		"/C/Users/plateau/Desktop/Edward/liverpool.html",
+		"/C/Users/plateau/Desktop/Edward/liverpool.css",
+		"/C/Users/plateau/Documents/web/exam.html",
+		"/C/Users/plateau/Documents/web/section.html",
+		"/C/xampp/htdocs/plsg/router.php",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/default/views/index.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/page/views/no_page.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/page/views/lga.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/page/views/db_page.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/default/views/page_side.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/default/views/about.html",
+		"/C/Users/plateau/AppData/Local/Temp/fz3temp-1/all.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/engines/legislator/views/all.html",
+		"/C/Users/plateau/Desktop/plsg_web/plsg_back/initializer.php",
+		"/C/xampp/htdocs/plsg/themes/plsg/index.html",
+		"/C/xampp/htdocs/plsg/themes/plsg/header.html",
+		"/C/Users/plateau/Desktop/all.html",
+		"/C/Users/plateau/Desktop/index.html",
+		"/C/Users/plateau/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/plateau/Desktop/plsg_web/themes/plsg/header.html",
+		"/C/xampp/htdocs/plsg/themes/plsg/footer.html",
+		"/C/Users/plateau/Desktop/slider/slide.css",
+		"/C/Users/plateau/Documents/plsg/themes/plsg/assets/style/reset.css",
+		"/C/Users/plateau/Documents/plsg/index.html",
+		"/C/Users/plateau/Desktop/slider/slide.html",
+		"/C/Users/plateau/Documents/plsg/router.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"hover",
+			"orange",
+			"actions",
+			"h3",
+			"left",
+			"19",
+			"97",
+			"left",
+			"cursor",
+			"actions",
+			"title",
+			"right",
+			"content",
+			"footer",
+			"label",
+			"label ",
+			"label",
+			"labe",
+			"form-actions",
+			"form-action",
+			"main-login",
+			"login",
+			"containe",
+			"unleash",
+			"gallery_box",
+			"gallery_box img",
+			"sidebar_box",
+			"sidebar",
+			"gallery_box",
+			"sidebar_box",
+			"carousel",
+			"slider",
+			"gall",
+			"7",
+			"thum",
+			"side",
+			"iframe",
+			"sidebar_box",
+			"sidebar_box.ph",
+			"sidebar_box",
+			"side",
+			"row col",
+			"news",
+			"body",
+			"background",
+			"ol",
+			"ol.",
+			"ol",
+			"clearfix",
+			"comment_box",
+			"clearfix",
+			"news",
+			"value",
+			"informatio",
+			"300",
+			".gallery_box img",
+			"image ca",
+			"governor",
+			"li.",
+			"row",
+			"gallery",
+			"col",
+			"slider",
+			"current",
+			"control",
+			"gallery",
+			"columns no_wi",
+			"img",
+			"ol",
+			"comment_number",
+			"350px",
+			".post",
+			"li",
+			"3500px",
+			"news",
+			"news blo",
+			"news",
+			"section",
+			"500px",
+			"img",
+			"columns",
+			"column",
+			"comment_box",
+			"comment_box.cl",
+			"comment_box cle",
+			"home_box",
+			"trade",
+			"blue",
+			".more.blue",
+			"blue",
+			"plateaustate.gov.ng",
+			"media",
+			"min",
+			">\n",
+			"textarea",
+			"page",
+			"answered",
+			"slider",
+			"img",
+			"health",
+			"conta",
+			"web",
+			"contac",
+			"by",
+			"contact",
+			"social",
+			"social-p",
+			"social_pos",
+			"social",
+			"by",
+			"government",
+			"slider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
