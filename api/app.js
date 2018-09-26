@@ -5,8 +5,8 @@ import morgan from 'morgan'
 
 
 import bodyParser from 'body-parser'
-import orderRoutes from './api/routes/orders'
-import productRoutes from './api/routes/products'
+import orderRoutes from './controller/routes/orders'
+import productRoutes from './controller/routes/products'
 
 
 
