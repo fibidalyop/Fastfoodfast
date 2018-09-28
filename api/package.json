@@ -6,8 +6,7 @@
   "scripts": {
     "lint": "node_modules/.bin/eslint --init",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
-    "test": "mocha --recursive --require babel-register",
-    "testt": "mocha  --require babel-register --exit",
+    "test": "mocha  --require babel-register --exit",
     "build": "rimraf dist/ && babel ./ --out-dir dist/ --ignore ./node_modules,./.babelrc,./package.json,./npm-debug.log --copy-files",
     "start": "npm run build && nodemon dist/server.js"
   },
