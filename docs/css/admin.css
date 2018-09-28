@@ -142,25 +142,33 @@ nav ul li a:hover, nav ul li.selected a {
     border: none;
     margin: 10px;
     box-shadow: -30px 30px 50px rgba(0, 0, 0, 0.32);
-    background: #edbd12;
+    background: url("../images/bg3.jpg");
     padding: 10px;
     width: 96%;
     margin-left: 0px;
+}
+#add-item form{
+    
 }
 
 #add-item form input.add:hover, #add-item form input.reset:hover, #add-item form input.hide:hover{
 background-color: #80e863;
 }
 
+#add-item form fieldset ol li{
+list-style: none;
+padding-bottom: 10px;
+}
 #add-item form fieldset input{
-width: 100%;
+
 }
 
-#content #right #top h3 .add a{
-    color: #edbd12;
+#content #right #top h3 .add button{
+    color: orange;
 }
-#content #right #top h3 .add a:hover{
+#content #right #top h3 .add button:hover{
     color: #15db36;
+    cursor: pointer;
 }
 
 #content #top h3 .add{
