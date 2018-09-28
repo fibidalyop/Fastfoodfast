@@ -14,7 +14,7 @@
             <nav>
                 <ul>
                     <li><a href="login.html">Login/Sign Up</a></li>
-                    <li><a href="#">Cart</a></li>
+                    <li><a href="cart.html">Cart</a></li>
                     <li><a href="#">Contact Us</a></li>
                     <li><a href="index.html">User View</a></li>
                 </ul>
@@ -59,7 +59,7 @@
                     <div id="top">
                     <h3>All Food Items: 
                     <div class="add">
-                    <a href="#" onclick="getElementById('add-item').style.display='block'">Add Food</a>
+                    <button onclick="getElementById('add-item').style.display='block'"> Add Food</button>
                     </div>
                     </h3>
                
@@ -68,7 +68,11 @@
    <div class="add-form" id="add-item">
 	<form>
 	<fieldset>
+    <ol>
+    <li>
 		<input type="text" name="title" placeholder="Food name" />
+        </li>
+        <li>
 		<select name="category">
     		<option value="select">Select Category</option>
     		<option value="african">African Dish</option>
@@ -77,13 +81,23 @@
     		<option value="piza">Piza & pastries</option>
     		<option value="rice">Rice & Pasta</option>
   		</select>
-		<textarea rows="3" cols="40" placeholder="enter description here"></textarea>
+        </li>
+        <li>
+		<textarea rows="3" cols="40" placeholder="Enter food description here"></textarea>
+        </li>
+        <li>
 		<input type="number" name="price" placeholder="Price" />
-		<input type="file" name="choose" /><br>
+        </li>
+        <li>
+		<input type="file" name="choose" />
+        </li>
+       
+        </ol>
 		</fieldset>
 		<input type="reset" name="reset" class="reset" />
 		<input type="submit" name="Add" value="Add"  class="add" />
 		<input type="button" name="hide" class="hide" value="Hide" onclick="getElementById('add-item').style.display='none'" />
+        
 	</form>
 	</div>
         </h3>
@@ -97,7 +111,7 @@
                                     <span class="st">Price:</span><strong>&#8358 550.00</strong>
                                 </div>
                                 <div class="actions">
-                                    <a href="#">Edit</a>
+                                    <a href="#" onclick="getElementById('add-item').style.display='block'">Edit</a>
                                     <a href="#">Delete</a>
                                 </div>
                             </div>
