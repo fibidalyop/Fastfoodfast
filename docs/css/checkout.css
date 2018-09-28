@@ -284,6 +284,12 @@ height: 35px;
     line-height: 16px;
     padding-right: 6px;
 }
+#content #right ul li button{
+    float: right;
+    color: #FD7A01;
+    font-weight: bold;
+    font-size: 14px;
+}
 #content #right ul li .price .special, #content #right ul li .info .price .special a{
     color: #FD7A01;
     font-weight: bold;
@@ -292,10 +298,6 @@ height: 35px;
 
 
 footer {
-    width: 980px;
-    position: fixed;
-    margin-top: 50%;
-    bottom: 0%;
     background: #f9f9f9;
     border-top: 1px solid #E0E0E0;
     margin: 0 0 5px;
