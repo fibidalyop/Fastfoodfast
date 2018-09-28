@@ -161,21 +161,19 @@ nav ul li a:hover, nav ul li.selected a {
     text-transform: uppercase;
     width: 150px;
 }
-#content ul li .info .title:hover {
-    color: #049733;
-}
+
 #content {
     overflow: hidden;
 }
-#content #left, #content #right {
+#content #right {
     border: 1px solid #E9E9E9;
     float: left;
     margin: 0 2%;
     width: 63%;
 }
 #content #right {
-    margin-left: 0;
-    width: 30%;
+    margin-left: 20;
+    width: 96%;
 }
 #content h3 {
     border-bottom: 1px solid #E0E0E0;
@@ -192,14 +190,7 @@ nav ul li a:hover, nav ul li.selected a {
     padding:0;
 }
 
-#content #left ul li {
-    
-    padding-bottom: 21px;
-    width: 33%;
-}
-#content #left :hover {
-    
-}
+
 #content #right ul li {
     border-top: 1px solid #E7E7E7;
     overflow: hidden;
@@ -210,11 +201,7 @@ nav ul li a:hover, nav ul li.selected a {
 #content #right ul li:first-child {
     border-width: none;
 }
-#content #left  .img {
-    padding-top: 70px;
-    text-align: center;
 
-}
 #content #right ul li .img {
     background-color: #FFFFFF;
     float: left;
@@ -223,21 +210,14 @@ nav ul li a:hover, nav ul li.selected a {
     width: 113px;
     
 }
-#content #left  .img img {
-    height:300px;
-    width:300px;
-    border-radius: 50px;
-}
+
 #content #right ul li .img img {
     height:70px;
     margin-top: 11px;
     width:70px;
     border-radius: 30px;
 }
-#content #left  .info {
-    padding: 17px 50px 0 50px;
-    text-align: center;
-}
+
 #content #right ul li .info {
     float: left;
     overflow: hidden;
@@ -264,23 +244,30 @@ nav ul li a:hover, nav ul li.selected a {
     text-transform: uppercase;
     
 }
-#content ul li .info .title:hover {
-    color: #049733;
-}
-#content #left .info p {
-    color: #58595b;
+th{
+    font-style: italic;
     font-size: 14px;
-    line-height: 16px;
-    padding-top: 3px;
 }
-#content #left  .info .price {
-    background: none repeat scroll 0 0 #F7F7F7;
-    color: #383838;
-    font-size: 12px;
-    font-weight: bold;
-    line-height: 16px;
-    margin: 17px 0 10px;
-    padding: 6px 0 6px 8px;
+
+table, th, tr, td{
+    border-style: none;
+    padding: 20px;
+    padding-top: 0px;
+    margin-left: 50px;
+}
+#content #right ul li .price  p{
+float: right;
+color: #FD7A01;
+font-weight: bold;
+font-size: 14px;
+
+}
+#content #right ul li .price  button, #content #right ul li .price  button a {
+float: right;
+color: #FD7A01;
+font-weight: bold;
+font-size: 14px;
+height: 35px;
 }
 #content #right ul li .info .price {
     color: #383838;
@@ -289,52 +276,26 @@ nav ul li a:hover, nav ul li.selected a {
     line-height: 16px;
     padding-top: 25px;
 }
-#content #left .info .price .st {
-    color: #7F7F7F;
-    font-size: 11px;
-    line-height: 16px;
-    margin-right: 3px;
-}
-#content #right  .info .price .usual, #content #right ul li .info .price .special {
+
+#content #right ul li .price .special  {
     color: #7F7F7F;
     font-size: 12px;
     font-weight: normal;
     line-height: 16px;
     padding-right: 6px;
-    text-decoration: line-through;
 }
-#content #right ul li .info .price .special {
+#content #right ul li .price .special, #content #right ul li .info .price .special a{
     color: #FD7A01;
     font-weight: bold;
     text-decoration: none;
 }
-#content #left .info .actions {
-    overflow:hidden;
-}
 
-#content #left .info .actions input{
-margin-bottom: 15px;
-width: 80px;
-}
-#content #left .info .actions a {
-    border: 1px solid #E0E0E0;
-    color: #fd7a01;
-    display: block;
-    font-size: 11px;
-    font-weight: bold;
-    line-height: 16px;
-    padding: 5px;
-    text-decoration: none;
-
-}
-
-
-#content #left  .info .actions a:first-child {
-    color: #009832;
-  
-}
 
 footer {
+    width: 980px;
+    position: fixed;
+    margin-top: 50%;
+    bottom: 0%;
     background: #f9f9f9;
     border-top: 1px solid #E0E0E0;
     margin: 0 0 5px;
